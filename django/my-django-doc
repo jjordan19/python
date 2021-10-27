@@ -1,0 +1,9 @@
+>> To start a django project
+	
+	~ django-admin startproject <project_name>
+
+>> To create a new app
+
+     -In the main root directory of your project, with the manage.py
+
+	~ python3 manage.py startapp <app_name>
